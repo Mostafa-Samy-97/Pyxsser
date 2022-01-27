@@ -1,25 +1,6 @@
-<p align="center">   
- <img src="images/logo.png" height="200"><br/>
-A powerful XSS scanner made in python 3.7<br/>
-
+## Python xss scanner 
 
 ## Installing 
-
-Requirements: <br/>
-
-<li> BeautifulSoup4 </li>
-
-```bash
-pip install bs4
-```
-<li> requests </li> 
-
-```bash
-pip install requests
-```
-<li> python 3.7 </li>
-<br/>
-Commands:
 
 ```bash
 git clone https://github.com/pwn0sec/PwnXSS
